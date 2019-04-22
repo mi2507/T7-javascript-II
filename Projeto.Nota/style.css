@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    margin-top: 100px;
+}
+
+#nota1 {
+    font-size:15px;
+
+}
+
+#nota2 {
+    font-size:15px;
+    margin-top: 10px;
+
+}
+
+button{
+    margin-top: 40px;
+    padding: 15px;
+    font-size:18px;
+    color: purple;
+}
+
+.container{
+    font-size:20px;
+
+}
+
