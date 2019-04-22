@@ -16,7 +16,7 @@ function meses(){
         break;
          
         case 4:
-            aert("abril");
+            alert("abril");
         break;
          
         case 5:
