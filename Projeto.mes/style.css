@@ -1,0 +1,25 @@
+
+body{
+    text-align: center;
+    margin-top: 150px;
+}
+
+label{
+    font-size: 25px;
+    color:red;
+}
+
+h2{
+    color:red;
+}
+
+input{
+    padding: 8px;
+
+}
+
+button{
+    padding: 8px;
+    color: red;
+    background-color: white;
+}
